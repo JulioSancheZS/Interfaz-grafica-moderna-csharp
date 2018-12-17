@@ -1,0 +1,47 @@
+c:\users\julio sanchez\documents\visual studio 2013\Projects\UI_Moderna\UI_Moderna\bin\Debug\UI_Moderna.exe.config
+c:\users\julio sanchez\documents\visual studio 2013\Projects\UI_Moderna\UI_Moderna\bin\Debug\UI_Moderna.exe
+c:\users\julio sanchez\documents\visual studio 2013\Projects\UI_Moderna\UI_Moderna\bin\Debug\UI_Moderna.pdb
+c:\users\julio sanchez\documents\visual studio 2013\Projects\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.csprojResolveAssemblyReference.cache
+c:\users\julio sanchez\documents\visual studio 2013\Projects\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.Form1.resources
+c:\users\julio sanchez\documents\visual studio 2013\Projects\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.Properties.Resources.resources
+c:\users\julio sanchez\documents\visual studio 2013\Projects\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.csproj.GenerateResource.Cache
+c:\users\julio sanchez\documents\visual studio 2013\Projects\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.exe
+c:\users\julio sanchez\documents\visual studio 2013\Projects\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.pdb
+C:\Users\Julio Sanchez\documents\visual studio 2013\Projects\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.frmProducto.resources
+C:\Users\Julio Sanchez\documents\visual studio 2013\Projects\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.frmCliente.resources
+C:\Users\Julio Sanchez\Desktop\UI_Moderna\UI_Moderna\bin\Debug\UI_Moderna.exe.config
+C:\Users\Julio Sanchez\Desktop\UI_Moderna\UI_Moderna\bin\Debug\UI_Moderna.exe
+C:\Users\Julio Sanchez\Desktop\UI_Moderna\UI_Moderna\bin\Debug\UI_Moderna.pdb
+C:\Users\Julio Sanchez\Desktop\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.csprojAssemblyReference.cache
+C:\Users\Julio Sanchez\Desktop\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.Form1.resources
+C:\Users\Julio Sanchez\Desktop\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.frmCliente.resources
+C:\Users\Julio Sanchez\Desktop\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.frmProducto.resources
+C:\Users\Julio Sanchez\Desktop\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.Properties.Resources.resources
+C:\Users\Julio Sanchez\Desktop\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.csproj.GenerateResource.cache
+C:\Users\Julio Sanchez\Desktop\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.csproj.CoreCompileInputs.cache
+C:\Users\Julio Sanchez\Desktop\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.exe
+C:\Users\Julio Sanchez\Desktop\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.pdb
+C:\Users\Julio Sanchez\Documents\VS2017 Proyect\UI_Moderna\UI_Moderna\bin\Debug\UI_Moderna.exe.config
+C:\Users\Julio Sanchez\Documents\VS2017 Proyect\UI_Moderna\UI_Moderna\bin\Debug\UI_Moderna.exe
+C:\Users\Julio Sanchez\Documents\VS2017 Proyect\UI_Moderna\UI_Moderna\bin\Debug\UI_Moderna.pdb
+C:\Users\Julio Sanchez\Documents\VS2017 Proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.csprojAssemblyReference.cache
+C:\Users\Julio Sanchez\Documents\VS2017 Proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.Form1.resources
+C:\Users\Julio Sanchez\Documents\VS2017 Proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.frmCliente.resources
+C:\Users\Julio Sanchez\Documents\VS2017 Proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.frmProducto.resources
+C:\Users\Julio Sanchez\Documents\VS2017 Proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.Properties.Resources.resources
+C:\Users\Julio Sanchez\Documents\VS2017 Proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.csproj.GenerateResource.cache
+C:\Users\Julio Sanchez\Documents\VS2017 Proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.csproj.CoreCompileInputs.cache
+C:\Users\Julio Sanchez\Documents\VS2017 Proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.exe
+C:\Users\Julio Sanchez\Documents\VS2017 Proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.pdb
+D:\Proyectos\C# proyect\UI_Moderna\UI_Moderna\bin\Debug\UI_Moderna.exe.config
+D:\Proyectos\C# proyect\UI_Moderna\UI_Moderna\bin\Debug\UI_Moderna.exe
+D:\Proyectos\C# proyect\UI_Moderna\UI_Moderna\bin\Debug\UI_Moderna.pdb
+D:\Proyectos\C# proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.csprojAssemblyReference.cache
+D:\Proyectos\C# proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.Form1.resources
+D:\Proyectos\C# proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.frmCliente.resources
+D:\Proyectos\C# proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.frmProducto.resources
+D:\Proyectos\C# proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.Properties.Resources.resources
+D:\Proyectos\C# proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.csproj.GenerateResource.cache
+D:\Proyectos\C# proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.csproj.CoreCompileInputs.cache
+D:\Proyectos\C# proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.exe
+D:\Proyectos\C# proyect\UI_Moderna\UI_Moderna\obj\Debug\UI_Moderna.pdb
