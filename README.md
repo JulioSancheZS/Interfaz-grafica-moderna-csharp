@@ -1,4 +1,4 @@
-# Interfaz-grafica-moderna-csharp
+# Interfaz-grafica-csharp
 Muestra de como hacar una interfaz en c# moderna
 
 
